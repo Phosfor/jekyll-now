@@ -6,7 +6,14 @@
 name: Michael Heinrichs
 
 # Short bio or description (displayed in the header)
-description: Computer engeniering student
+description: Japan Blog
+
+defaults:
+  - scope:
+      path: "images/404.jpg"
+    values:
+      ignore_gallery: true
+  
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -73,9 +80,10 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jemoji # Emoji support
 
 # Exclude these files from your production _site
 exclude:

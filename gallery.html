@@ -1,0 +1,79 @@
+---
+layout: page
+
+title:          Gallery
+image_folder:   /images/
+max_width:      500px
+sort_by:        path   # modified_time or path (notice: path is case sensitive)
+date_format:    "%A, %B %-d, %Y"
+---
+
+<style type="text/css">
+ul.ins-imgs {
+    list-style-type: none;
+    padding: 0;
+}
+
+li.ins-imgs-li {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.ins-imgs-img img {
+    outline: none;
+    -webkit-box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5);
+}
+
+div.ins-imgs-label {
+    padding-top: 5px;
+}
+
+div.ins-imgs-img a:focus {
+    outline: none;
+}
+</style>
+
+<ul class="ins-imgs">
+
+    {% assign imgs = site.static_files | sort: page.sort_by | reversed %}
+    {% assign last_date = nil %}
+    {% for img in imgs %}
+
+        {% if img.path contains page.image_folder and img.ignore_gallery != true %}
+            {% assign img_name = img.basename %}
+
+            {% assign year = img.basename | slice: 0, 4 %}
+            {% assign month = img.basename | slice: 4, 2 %}
+            {% assign day = img.basename | slice: 6, 2 %}
+
+            {% assign hour = img.basename | slice: 9, 2 %}
+            {% assign minute = img.basename | slice: 11, 2 %}
+            {% assign second = img.basename | slice: 13, 2 %}
+
+            {% capture img_time %}{{ year }}-{{ month }}-{{ day }} {{ hour }}:{{ minute }}:{{ second }}{% endcapture %}
+            {% assign img_date = img_time | date: page.date_format %}
+
+
+            {% if img_date != last_date %}
+                <h2>{{ img_date }}</h2>
+                {% assign last_date = img_date %}
+            {% endif %}
+
+            <li class="ins-imgs-li" id="{{ img_name }}">
+                <div class="ins-imgs-img">
+                    <a name="{{ img.path }}" href="{{ img.path }}">
+                        <img src="{{ img.path }}"
+                            alt="{{ img_name }}"
+                            style="max-width: {{ page.max_width }}"/>
+                    </a>
+                </div>
+                {% comment %}<div class="ins-imgs-label">Image name: {{ img_name }} (added {{ img_date }})</div>{% endcomment %}
+            </li>
+
+        {% endif %}
+    {% endfor %}
+
+</ul>
