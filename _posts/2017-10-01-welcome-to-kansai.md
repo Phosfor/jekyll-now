@@ -11,8 +11,8 @@ Bald geht's los. Ich kann es garnicht richtig fassen, dass ich ab morgen für ei
 Obwohl mein Flug erst um 15:30 geht, sind wir schon um 12:30 am Flughafen.
 Angeblich hat der Flughafen Probleme mit dem Sicherheitspersonal und es kann zu großen Verzögerungen bei der Sicherheitskontrolle kommen.
 Am Flughafen treffe ich mich mit zwei Freunden, Michelle und Joshua, die auch an der RWTH studieren und in Osaka einen austausch machen.
-Als ich die schlange an den Emirates-Schaltern gesehen habe, dachte ich "Oh Gott, wenn die schlange hier schon so lang ist, ..."
-<!--More-->
+Als ich die schlange an den Emirates-Schaltern gesehen habe, dachte ich "Oh Gott, wenn die schlange hier schon so lang ist, ...".
+<!--more-->
 Nachdem wir eingecheckt und unser Gepäck abgegeben haben, gehen wir noch was essen.
 
 Jetzt heißt es abschied nehmen... Wider Erwarten gibt es **KEINE** Schlange bei der Sicherheitskontrolle.

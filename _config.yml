@@ -13,6 +13,8 @@ defaults:
       path: "images/404.jpg"
     values:
       ignore_gallery: true
+
+excerpt_separator: <!--more-->
   
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -32,7 +34,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: true # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
