@@ -26,12 +26,10 @@ Und man musste nicht erst sekundenlang warten, bis auf einen Knopfdruck reagiert
 
 ![Riesen Bildschirm im A388](/images/20170921_145407.jpg)
 
-Kurz bevor wir in Dubai geladet sind, habe ich glaube ich den [Burj Khalifa](https://de.wikipedia.org/wiki/Burj_Khalifa) gesehen.
+Kurz bevor wir in Dubai gelandet sind, habe ich glaube ich den [Burj Khalifa](https://de.wikipedia.org/wiki/Burj_Khalifa) gesehen.
 Ich bin mir aber leider nicht sicher, weil es schon dunkel war.
 
-Nach kurzem Overlay gehts weiter Richtung Japan. Zeit zu schlafen. おやすみなさい
-
-<!-- ![_config.yml]({{ site.baseurl }}/images/welcome.png) -->
+Nach kurzem Overlay geht's weiter Richtung Japan. Zeit zu schlafen. おやすみなさい
 
 ---
 
@@ -46,13 +44,13 @@ Direkt um die Ecke finden wir einen Curry-Laden. Ich liebe Curry :stuck_out_tong
 ![CURRY!!!!](/images/20170922_225950.jpg)
 
 Noch ein kurzer Spaziergang am Fluss und zurück zum Apartment.
-Ich bin super müde und schlafe fast im Sitzen ein. Ich will mich aber an den neuen Rythmus gewöhnen also versuche ich noch was längkdfkjdkj
+Ich bin super müde und schlafe fast im Sitzen ein. Ich will mich aber an den neuen Rhythmus gewöhnen also versuche ich noch was längkdfkjdkj
 
 ---
 
 ## 23.09.2017, Kyoto (Kiyomizu-Dera, Yasaka, Gion)
 
-Der erste (richtige) Tag beginnt. Auf gehts zum [Kiyomizu-dera](https://de.wikipedia.org/wiki/Kiyomizu-dera).
+Der erste (richtige) Tag beginnt. Auf geht's zum [Kiyomizu-dera](https://de.wikipedia.org/wiki/Kiyomizu-dera).
 Wir gehen praktisch die gleiche Route wie schon bei meinem Urlaub im März. Vorbei an kleineren Schreinen und einem Friedhof.
 
 ![Friedhof](/images/20170923_101413_HDR.jpg)
@@ -60,14 +58,14 @@ Wir gehen praktisch die gleiche Route wie schon bei meinem Urlaub im März. Vorb
 Kaum am Tempel angekommen werden wir von Schülern angesprochen, die ihr Englisch ausprobieren wollen. Aber selbst der Lehrer hat Probleme sich auszudrücken.
 
 Langsam werden wir hungrig. Wir suchen uns einen Platz um unser "Konbini-Frühstück" (verschiedene Onigiri und andere Snacks) zu verspeisen. Aber schon wieder kommen Japaner auf uns zu.
-Diesmal Englischstudenten... Sie wollen uns durch den Tempel führen. Natürlich "free of charge". Also alles wieder eipacken.
+Diesmal Englischstudenten... Sie wollen uns durch den Tempel führen. Natürlich "free of charge". Also alles wieder einpacken.
 Den Eintritt müssen wir aber trotzdem zahlen. Wir wollten aber sowieso rein; also ab zur Kasse.
-Statt geführt zu werden, müssen wir die schüchternen Studenten förmlich nach den Infos ausfragen. Aber so erfahren wir trotzem mehr als wenn wir alleine gegangen wären.
+Statt geführt zu werden, müssen wir die schüchternen Studenten förmlich nach den Infos ausfragen. Aber so erfahren wir trotzdem mehr als wenn wir alleine gegangen wären.
 Schließlich steht hier alles praktisch nur auf Japanisch. Und auch sonst macht es Spaß sich mit ihnen zu unterhalten. Noch ein Abschiedsfoto und wir können uns endlich unserem Essen widmen. 
 
 ![Kostenlose "Führung"](/images/20170923_113259_HDR.jpg)
 
-Mit gefülltem Magen schlendern wir nun eine Straße voll mit Souvenierläden bis zur Hauptstraße runter. Ich wollte eigentlich im _Gojo Guest House_ übernachten, wo wir auch schon im März waren.
+Mit gefülltem Magen schlendern wir nun eine Straße voll mit Souvenirläden bis zur Hauptstraße runter. Ich wollte eigentlich im _Gojo Guest House_ übernachten, wo wir auch schon im März waren.
 Aber leider war es schon ausgebucht. Trotzdem wollte ich mal vorbeischauen. Glücklicherweise ist es in der nähe. Wir setzen uns rein und bestellen uns was zu Trinken.
 
 500 Yen für einen O-Saft. Ganz schön teuer. Und Shiori ist auch nicht da. Sie hatte mir damals geholfen meinen Railpass wieder zu kriegen, nachdem ich ihn verloren hatte.
@@ -78,7 +76,7 @@ Kurz bevor wir das kuschelige Cafe/Hostel verlassen bemerke ich ein bekanntes Ge
 ![Under Construction](/images/20170923_151628_HDR.jpg)
 
 Wir kommen an einem riesen Tor aus. Dahinter eine weitere Tempelanlage (und wie wir später erfahren haben eine Treppe, auf der eine Szene von _The last Samurai_ gedreht wurde).
-Oben angekommen werden wir aber leider enttäuscht: Ein großer Teil wird gerade rennoviert und ist von einer Art gigantischer Hütte umgeben. Wir gehen weiter hoch. Am höchsten Punkt steht ein Schrein. Man muss die Schuhe ausziehen um ihn betreten zu dürfen. Ich zögere. Aber ein älterer japanischer Mann spricht uns an und verspricht eine schöne Aussicht auf die Stadt.
+Oben angekommen werden wir aber leider enttäuscht: Ein großer Teil wird gerade renoviert und ist von einer Art gigantischer Hütte umgeben. Wir gehen weiter hoch. Am höchsten Punkt steht ein Schrein. Man muss die Schuhe ausziehen um ihn betreten zu dürfen. Ich zögere. Aber ein älterer japanischer Mann spricht uns an und verspricht eine schöne Aussicht auf die Stadt.
 Also Schuhe aus, hoch, ein paar Fotos machen und wieder runter - habe ich gedacht. Aber der Japaner erzählt weiter: Er kniet sich auf eines der Sitzkissen und schlägt mehrfach mit einem Schlägel auf eine hölzerne Glocke. Er sagt, dass man so an diesem Schrein betet und ermuntert uns es ihm gleichzutun. Ich fühle mich etwas seltsam bei der Sache, knie mich aber ebenfalls hin und betätige mehrfach die Glocke. Auch die anderen beiden versuchen es.
 
 ![Last Samurai](/images/20170923_155842.jpg)
@@ -90,15 +88,15 @@ Nachdem wir unsere Schuhe wieder angezogen haben, holt der Mann Fotos heraus und
 
 Dann an einem Tempel, wo angeblich der erste grüne Tee in japan angebaut wurde.
 
-![Tee Temple](/images/20170923_165805.jpg)
+![Tee Tempel](/images/20170923_165805.jpg)
 
 Und nach mehrstündiger Privatführung verabschieden wir und von unserem Guide.... mit einem Selfie... Ich schäme mich :pensive:
 
 ![Selfie mit unserem Guide](/images/20170923_171641.jpg)
 
-Inzwischen haben wir ein ganz schönes Loch im Bauch und entscheiden uns Ramen essen zu gehen. Wir gucken bei Google und nach einger Zeit haben wir den Laden gefunden, den wir uns ausgesucht haben. Allerdings stehen draußen schon einige Leute. Mir schwant schon böses. Und drinnen bestätigen sich meine Befürchtungen: Wir sollen mindestens eine Stunde warten. Das ist uns zu lange und wir Suchen nach was anderem. Eine gefühlte Ewigkeit später sitzen wir in einem Laden und essen Udon. 
+Inzwischen haben wir ein ganz schönes Loch im Bauch und entscheiden uns Ramen essen zu gehen. Wir gucken bei Google und nach einiger Zeit haben wir den Laden gefunden, den wir uns ausgesucht haben. Allerdings stehen draußen schon einige Leute. Mir schwant schon böses. Und drinnen bestätigen sich meine Befürchtungen: Wir sollen mindestens eine Stunde warten. Das ist uns zu lange und wir Suchen nach was anderem. Eine gefühlte Ewigkeit später sitzen wir in einem Laden und essen Udon. 
 
-Nach einem Abstecher nach Gion gehts ab ins Bett.
+Nach einem Abstecher nach Gion geht's ab ins Bett.
 
 ---
 
@@ -124,7 +122,7 @@ Heute ist es soweit. Wir ziehen in unser Dorm ein. Wir haben wirklich Glück mit
 
 ![Mein Zimmer](/images/20170925_134804.jpg)
 
-Nach kurzer Verschnaufpause wird uns ein Umschlag mit allen möglichen Unterlagen überreicht. Wir kriegen eine kleine Einführung in die Räumlichkeiten und unsere Zimmer. Jetzt fängts erst richtig an. Wir müssen uns bei der City-Hall regestrieren, Versicherungen bezahlen und ein Bankkonto eröffnen. Die Registrierung geht glücklicherweise problemlos. Kaum dass wir reingekommen sind, kommt schon eine Frau auf uns zu und fragt uns, ob wir Austauschstudenten seien und uns registrieren wollten. Wir werden in ein Hinterzimmer geführt, wo wir einige Dokumente ausfüllen müssen. Gleich danach gehen wir zur Bank. Aber leider sind wir schon zu spät. Die Versicherungen können wir allerdings noch zahlen. Andere Austauschstudenten fragen uns, ob wir nicht mit ihnen essen gehen wollen. Zusammen kehren wir in einem kleinen Imbiss ein. Wir essen [Takoyaki](https://de.wikipedia.org/wiki/Tako-yaki), eine Osaka-Spezialität.
+Nach kurzer Verschnaufpause wird uns ein Umschlag mit allen möglichen Unterlagen überreicht. Wir kriegen eine kleine Einführung in die Räumlichkeiten und unsere Zimmer. Jetzt fängt's erst richtig an. Wir müssen uns bei der City-Hall registrieren, Versicherungen bezahlen und ein Bankkonto eröffnen. Die Registrierung geht glücklicherweise problemlos. Kaum dass wir reingekommen sind, kommt schon eine Frau auf uns zu und fragt uns, ob wir Austauschstudenten seien und uns registrieren wollten. Wir werden in ein Hinterzimmer geführt, wo wir einige Dokumente ausfüllen müssen. Gleich danach gehen wir zur Bank. Aber leider sind wir schon zu spät. Die Versicherungen können wir allerdings noch zahlen. Andere Austauschstudenten fragen uns, ob wir nicht mit ihnen essen gehen wollen. Zusammen kehren wir in einem kleinen Imbiss ein. Wir essen [Takoyaki](https://de.wikipedia.org/wiki/Tako-yaki), eine Osaka-Spezialität.
 
 Abends lerne ich viele neue Leute im Aufenthaltsraum kennen. Viele Europäer - insbesondere Deutsche und Franzosen - und viele Asiaten - Taiwanesen und Koreaner.
 
@@ -151,7 +149,7 @@ Michelle, Nina und ich fahren in die Innenstadt um nach einer SIM-Karte zu gucke
 ## 28.09.2017 Suita-Campus
 
 Ich bin en bisschen aufgeregt. Heute soll ich meine Hostfamily kennenlernen. Aber zunächst eine Führung über den Suita-Campus. In einer Mensa esse ich wieder Curry (ich weiß, ich weiß, aber es ist die Spezialität der Mensa und es ist im Angebot). Ich liebe Curry...
-Das Treffen rückt immer näher. Ich weiß noch nichts über die Familie. Nur dass sie 小山　(_Koyama_) heißen. Noch eine Einführung. Ich bekomme einen Zettel mit ein wenig mehr Informationen: Ein Ehepaar mitte 60, das Musik, Kochen und Gartenarbeit mag. Jetzt ist es soweit. Ich spreche sie auf Japanisch an. Sie fragen mich, ob Japanisch in Ordnung ist, oder ob sie Englisch versuchen sollten. Ich will Japanisch lernen also einigen wir uns darauf. Es lief erstaunlich gut aber ab und zu wusste keiner was er/sie sagen sollte _#akward_silence_. Ich wurde im Oktober bei ihnen zum Essen eingeladen. Ich freu mich schon riesig darauf. Leider habe ich vergessen ein Foto zu machen aber das hole ich noch nach.
+Das Treffen rückt immer näher. Ich weiß noch nichts über die Familie. Nur dass sie 小山　(_Koyama_) heißen. Noch eine Einführung. Ich bekomme einen Zettel mit ein wenig mehr Informationen: Ein Ehepaar mitte 60, das Musik, Kochen und Gartenarbeit mag. Jetzt ist es soweit. Ich spreche sie auf Japanisch an. Sie fragen mich, ob Japanisch in Ordnung ist, oder ob sie Englisch versuchen sollten. Ich will Japanisch lernen also einigen wir uns darauf. Es lief erstaunlich gut aber ab und zu wusste keiner was er/sie sagen sollte _#akward_silence_. Ich wurde im Oktober bei ihnen zum Essen eingeladen. Ich freue mich schon riesig darauf. Leider habe ich vergessen ein Foto zu machen aber das hole ich noch nach.
 
 ---
 
